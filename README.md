@@ -5,6 +5,7 @@ Felhasznált technológiák:<br>
   JAVA 8<br>
   MAVEN<br>
   VAADIN 14<br>
+  SPRING BOOT<br>
 <br>
 Programhoz szükségesek:<br>
 1. Java 8 https://www.oracle.com/java/technologies/javase-jdk8-downloads.html<br>
