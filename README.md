@@ -17,5 +17,5 @@ Program elérése Böngészőből: localhost:8080<br>
 Esetleg szüksége lehet: npm install-ra, de a maven elméletileg lefutatja autómatikusan
 <br>
 <br>
-Első beöltésnél mivel nem buildelt verzió és debugban lesz elindítva lehetséges hiba üzenet:<br>
-"A felépített kapcsolatot az állomás szoftvere megszakította", ettől a program fut rendesen<br>
+Első betöltésnél, mivel nem buildelt verzió és debug módban lesz elindítva lehetséges hiba üzenet:<br>
+"A felépített kapcsolatot az állomás szoftvere megszakította", ettől a program fut rendesen<br><br>
