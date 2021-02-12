@@ -15,7 +15,7 @@ Couchbase Docker elindítása - a propertyknél definiált kapcsolattal: localho
 <br>
 Program elindítása: mvn spring-boot:run<br>
 Program elérése Böngészőből: localhost:8080<br>
-Esetleg szüksége lehet: npm install-ra, de a maven elméletileg lefutatja autómatikusan
+Esetleg szüksége lehet: npm install-ra, de a maven elméletileg lefutatja automatikusan
 <br>
 <br>
 Első betöltésnél, mivel nem buildelt verzió és debug módban lesz elindítva lehetséges hiba üzenet:<br>
