@@ -15,7 +15,7 @@
     "compression-webpack-plugin": "3.0.1",
     "webpack-merge": "4.2.2",
     "raw-loader": "3.0.0",
-    "terser": "4.6.7"
+    "terser": "4.8.1"
   },
   "vaadinAppPackageHash": "7c11d8d3fca8c8f0cfb3c3ceb53646bc5d0cb1c62fbe59a8ed2a3e5cb14e3dfb"
 }
